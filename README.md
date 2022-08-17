@@ -25,6 +25,6 @@
 <img width="733" alt="Screen Shot 2022-08-17 at 7 57 55 PM" src="https://user-images.githubusercontent.com/55221433/185209491-26e5267e-794c-4486-a30a-914cc6413110.png">
 
 Guía del examen :
-https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf \
 Preguntas de muestra :
 https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf
