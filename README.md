@@ -22,7 +22,8 @@
     { Professional } - Solutions arquitect - Devops arquitect
     { Specialty }    - Especialidades
   
-<img width="733" alt="Screen Shot 2022-08-17 at 7 57 55 PM" src="https://user-images.githubusercontent.com/55221433/185209491-26e5267e-794c-4486-a30a-914cc6413110.png">
+<img width="733" alt="Screen Shot 2022-08-17 at 7 57 55 PM" src="https://user-images.githubusercontent.com/55221433/185210915-8485cabb-2939-4d5b-88dc-5a99d17f815e.png">
+
 
 Guía del examen :
 https://d1.awsstatic.com/es_ES/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf \
