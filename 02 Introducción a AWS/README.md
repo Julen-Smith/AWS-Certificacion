@@ -50,5 +50,12 @@ Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de f
 
 <img width="1424" alt="Captura de pantalla 2022-08-18 a las 4 35 57" src="https://user-images.githubusercontent.com/55221433/185280624-d5d2684b-a5b3-49dc-aa1d-0bed2c86318b.png">
 
+### Perfil > Panel de facturación > Preferencias de facturación > Administre las alertas de facturación > Crear Alarma > Seleccionar nueva métrica
+
+<img width="785" alt="Captura de pantalla 2022-08-18 a las 4 45 47" src="https://user-images.githubusercontent.com/55221433/185281771-e45acfbc-d305-4495-ac82-a2e229706a76.png">
+
+
+
+
 
 
