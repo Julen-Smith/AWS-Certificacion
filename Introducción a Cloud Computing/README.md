@@ -1,3 +1,5 @@
+# Introducción al Cloud Computing
+
 Cloud Computing es la entrega de recursos tecnológicos bajo demanda (aplicaciones, servidores, redes
 , hasta centro de datos completos) a través de Internet y con la filosofía de pagar por el uso de nuestros recursos.
 Basicamente es un alquiler de recursos informáticos configurables.
@@ -37,6 +39,22 @@ Puede ser on-premise (dentro de las instalaciones) o podría ser administrada y 
 Hibrida
 Mezcla ambas
 
-# Niveles de servicios dentro del cloud
+# Niveles de servicios dentro del cloud / Modos de servicio de Cloud
 
-## On - Premise
+## On - Premise 
+(Lo que ha venido siendo hasta ahora pre cloud) \
+<img width="186" alt="Captura de pantalla 2022-08-18 a las 2 25 39" src="https://user-images.githubusercontent.com/55221433/185266184-b824245b-3661-469a-b37b-d34e6456d29d.png">
+
+## Infrastructure as a Service ( IASS )
+Una vez aparece cloud \
+<img width="207" alt="Captura de pantalla 2022-08-18 a las 2 28 00" src="https://user-images.githubusercontent.com/55221433/185266455-53daa421-5dd9-4e54-b260-c5ef5aad5b89.png">
+
+## Platform as a Service ( PASS ) 
+<img width="205" alt="Captura de pantalla 2022-08-18 a las 2 31 12" src="https://user-images.githubusercontent.com/55221433/185266663-b3c789b7-e557-4955-82c3-8ccf6ab9a687.png"> \
+Ejemplo RDS Relational database system, yo lo contrato amazon se encarga de todo y yo solo voy a tener que gestionar los datos y las aplicaciones para explotar esa base de datos, toda la parte de la base de datos, parcheo mantenimiento se encarga amazon.
+
+## Software as a Service ( SASS ) 
+<img width="217" alt="Captura de pantalla 2022-08-18 a las 2 35 28" src="https://user-images.githubusercontent.com/55221433/185267015-ac7a3ae7-7bde-4a76-bb29-5bf6324aad05.png"> \
+Por poner un ejemplo externo a Amazon. Esta gmail.
+
+### Ademas ahí prestaciones que mezclan las anteriores, pero parece ser que de cara a la certificación estas son las que más pide Amazon.
