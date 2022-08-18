@@ -1,4 +1,5 @@
 # AWS
+Repositorio dedicado a la recopilación de datos de cursos para la certificación de Amazon
 
 ## Contenido
 ### Introduccion. Arquitectura.
