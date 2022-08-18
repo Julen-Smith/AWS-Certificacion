@@ -40,3 +40,15 @@ Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de f
 
 <img width="1344" alt="Captura de pantalla 2022-08-18 a las 4 22 47" src="https://user-images.githubusercontent.com/55221433/185278950-c29a5ce3-84cb-4fff-bbc7-45c48b637bae.png">
 
+
+### Marcar todas las casillas señaladas
+
+<img width="1033" alt="Captura de pantalla 2022-08-18 a las 4 29 48" src="https://user-images.githubusercontent.com/55221433/185279896-9b0b0e36-f586-450f-9f43-84754c39d7f0.png">
+
+
+### Perfil > Panel de facturación > Preferencias de facturación > Administre las alertas de facturación
+
+<img width="1424" alt="Captura de pantalla 2022-08-18 a las 4 35 57" src="https://user-images.githubusercontent.com/55221433/185280624-d5d2684b-a5b3-49dc-aa1d-0bed2c86318b.png">
+
+
+
