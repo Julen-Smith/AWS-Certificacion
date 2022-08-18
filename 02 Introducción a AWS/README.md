@@ -30,6 +30,8 @@ Todos los los datos de métricas de facturación se almacenan en la Región EE. 
 Estos datos incluyen los cargos estimados para todos los servicios de AWS que utilices, además del conjunto total estimado de los cargos de AWS. \
 Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de facturación. 
 
+## Configuración
+
 Para empezar iremos a nuestro perfil > Panel de facturación
 
 <img width="316" alt="Captura de pantalla 2022-08-18 a las 4 12 26" src="https://user-images.githubusercontent.com/55221433/185277908-d1422c15-70c2-4784-ae06-cf369b78e170.png">
