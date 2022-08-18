@@ -1,7 +1,7 @@
 # Capa gratuita
 Existen tres tipos de productos gratuitos en amazon :
 - Pruebas de ciertos productos.
-- Ciertos productos durante el primer año.
+- Acceso límitado a algunos productos durante el primer año.
 - Productos gratuitos de por vida.
 
 Ver un poco lo que incluye la capa gratuita -> https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
@@ -80,3 +80,12 @@ Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de f
 
 
 <img width="1160" alt="Captura de pantalla 2022-08-18 a las 5 12 18" src="https://user-images.githubusercontent.com/55221433/185284954-e8af1421-12a8-4759-a295-b760cce08e6f.png">
+
+### Trucos para gastar lo menos posible
+
+- Siempre que se pueda revisar y usar los productos de la capa gratuita
+- Borrar o detener los productos utilizados
+- Acostumbrarse a utilizar únicamente un región (Si no se quedan instancias abiertas por ahí)
+- Intentar utilizar instancias de tipo SPOT (Instancias que se supone que permiten ahorrar entre el 70 y 90%)
+- Seleccionar las opciones más económicas, aunque parezcan que tienen menos prestaciones
+
