@@ -57,4 +57,4 @@ Ejemplo RDS Relational database system, yo lo contrato amazon se encarga de todo
 <img width="217" alt="Captura de pantalla 2022-08-18 a las 2 35 28" src="https://user-images.githubusercontent.com/55221433/185267015-ac7a3ae7-7bde-4a76-bb29-5bf6324aad05.png"> \
 Por poner un ejemplo externo a Amazon. Esta gmail.
 
-### Ademas ahí prestaciones que mezclan las anteriores, pero parece ser que de cara a la certificación estas son las que más pide Amazon.
+### Ademas hay prestaciones que mezclan las anteriores, pero parece ser que de cara a la certificación estas son las que más pide Amazon.
