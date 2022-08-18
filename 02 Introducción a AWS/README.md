@@ -45,6 +45,10 @@ Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de f
 
 <img width="1033" alt="Captura de pantalla 2022-08-18 a las 4 29 48" src="https://user-images.githubusercontent.com/55221433/185279896-9b0b0e36-f586-450f-9f43-84754c39d7f0.png">
 
+### Guardar las preferencias si no saldrá la opción de Facturación mas tarde
+
+<img width="219" alt="Captura de pantalla 2022-08-18 a las 4 50 43" src="https://user-images.githubusercontent.com/55221433/185282300-c4338838-1644-43ef-962a-7338691c3024.png">
+
 
 ### Perfil > Panel de facturación > Preferencias de facturación > Administre las alertas de facturación
 
@@ -54,8 +58,25 @@ Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de f
 
 <img width="785" alt="Captura de pantalla 2022-08-18 a las 4 45 47" src="https://user-images.githubusercontent.com/55221433/185281771-e45acfbc-d305-4495-ac82-a2e229706a76.png">
 
+### Seleccionar nueva métrica > Facturación > Cargo total estimado > Click en usd y seleccionar métrica
+
+![imagen](https://user-images.githubusercontent.com/55221433/185282789-17db17a3-cb7d-4ec8-bc94-dbbcfb776e9d.png)
+
+
+### Configurar métrica en función a lo deseado
+
+<img width="513" alt="Captura de pantalla 2022-08-18 a las 4 58 14" src="https://user-images.githubusercontent.com/55221433/185283574-8cb0827d-f943-4778-94a2-9343917de8f8.png">
+
+### Configurar aviso en función a lo deseado
+
+<img width="511" alt="Captura de pantalla 2022-08-18 a las 5 04 53" src="https://user-images.githubusercontent.com/55221433/185284275-10a9c892-21c9-47b8-a24c-4998bcfa4976.png">
+
+### Cerrar la alarma
+
+<img width="851" alt="Captura de pantalla 2022-08-18 a las 5 10 34" src="https://user-images.githubusercontent.com/55221433/185284727-2cb8d3c7-6608-449f-95dd-9eebac0a38bd.png">
+
+### Una vez terminado nos saldrá este aviso por seguridad, unicamente hay que validar la suscripción desde el email
 
 
 
-
-
+<img width="1160" alt="Captura de pantalla 2022-08-18 a las 5 12 18" src="https://user-images.githubusercontent.com/55221433/185284954-e8af1421-12a8-4759-a295-b760cce08e6f.png">
