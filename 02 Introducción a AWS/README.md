@@ -15,3 +15,5 @@ A la hora de hacer login, también cabe destacar que tendremos dos opciones:
 - Usuario IAM (Identity Access Manager) basicamente es un usuario con privilegios límitados. Supongo que lo investigaré más tarde.
 
 # Infraestructura Global - Regiones
+Los puntos azules corresponden a donde tiene alojados Amazon sus CPDs \
+<img width="938" alt="Captura de pantalla 2022-08-18 a las 3 23 09" src="https://user-images.githubusercontent.com/55221433/185271540-ad05e346-463e-4f00-a608-f18d320906f9.png">
