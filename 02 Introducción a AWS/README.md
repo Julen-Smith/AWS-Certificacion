@@ -17,3 +17,15 @@ A la hora de hacer login, también cabe destacar que tendremos dos opciones:
 # Infraestructura Global - Regiones
 Los puntos azules corresponden a donde tiene alojados Amazon sus CPDs \
 <img width="938" alt="Captura de pantalla 2022-08-18 a las 3 23 09" src="https://user-images.githubusercontent.com/55221433/185271540-ad05e346-463e-4f00-a608-f18d320906f9.png">
+
+## ¿ Por qué seleccionar una región ?
+- Motivos legales (Por ejemplo tema de protección de datos aquí en España/Europa)
+- Precio (Amazon no mantiene el mismo precio en todas las regiones, tema impuestos y demás)
+- Latencia (Hacia el usuario final)
+- Disponibilidad de servicio
+
+# IMPORTANTE
+## Alarma de facturación
+Todos los los datos de métricas de facturación se almacenan en la Región EE. UU. Este (Norte de Virginia). \
+Estos datos incluyen los cargos estimados para todos los servicios de AWS que utilices, además del conjunto total estimado de los cargos de AWS. \
+Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de facturación. \
