@@ -32,11 +32,11 @@ Por lo que es importante haber cambiado a Virginia antes de hacer la alarma de f
 
 ## Configuración
 
-Para empezar iremos a nuestro perfil > Panel de facturación
+### Para empezar iremos a nuestro perfil > Panel de facturación
 
-<img width="316" alt="Captura de pantalla 2022-08-18 a las 4 12 26" src="https://user-images.githubusercontent.com/55221433/185277908-d1422c15-70c2-4784-ae06-cf369b78e170.png"> \
+<img width="316" alt="Captura de pantalla 2022-08-18 a las 4 12 26" src="https://user-images.githubusercontent.com/55221433/185277908-d1422c15-70c2-4784-ae06-cf369b78e170.png"> 
 
-Perfil > Panel de facturación > Preferencias de facturación
+### Perfil > Panel de facturación > Preferencias de facturación
 
 <img width="1344" alt="Captura de pantalla 2022-08-18 a las 4 22 47" src="https://user-images.githubusercontent.com/55221433/185278950-c29a5ce3-84cb-4fff-bbc7-45c48b637bae.png">
 
